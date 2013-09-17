@@ -1,3 +1,21 @@
+Notice
+======
+
+Gaia-UI-Tests repo has been moved to [Gaia](https://github.com/mozilla-b2g/gaia).
+
+Further development on this repository has been STOPPED.
+Any pull requests should be submitted to [Gaia](https://github.com/mozilla-b2g/gaia).
+
+For any information:
+
+* Join the Gaia-UI-Tests mailing list:
+
+> [https://mail.mozilla.org/listinfo/gaia-ui-automation](https://mail.mozilla.org/listinfo/gaia-ui-automation)
+
+* and talk to us on IRC:
+
+>  #gaia on irc.mozilla.org
+
 Introduction
 ============
 
